@@ -5,6 +5,11 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo_virtual", "metodo_virtual\metodo_virtual.csproj", "{71BC24E6-90DE-4E25-A34A-7073D8BD9E5D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{146F21EE-C71C-4892-8A07-7B509B78E970}"
+	ProjectSection(SolutionItems) = preProject
+		Perro.cs = Perro.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,8 +1,9 @@
 ﻿using System;
+using Perro2;
 
 namespace metodo_virtual
 {
-    class Program
+    public class Program
     {
        static void Main(string[] args)
         {
@@ -22,13 +23,7 @@ namespace metodo_virtual
             }
 
         }
-        public class Perro : Animal
-        {
-            public override void HacerSonido()
-            {
-                Console.WriteLine("El perro ladra");
-            }
-        }
+
 
 
     }
